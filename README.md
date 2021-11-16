@@ -30,5 +30,5 @@
 <br><br><br><br><br><br><br>
 
 ## 🌐 Connect with me:
-[![LinkedIn Badge](https://img.shields.io/badge/-Marcus_Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmgaspar/)](https://www.linkedin.com/in/viniciusmgaspar/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Vinicius_Gaspar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmgaspar/)](https://www.linkedin.com/in/viniciusmgaspar/)
 
