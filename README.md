@@ -26,7 +26,7 @@
 </p>
 
 ## 🔗 Most Used
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcusfonte18&show_icons=true&locale=en&layout=compact" alt="marcusfonte18"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusmgaspar&show_icons=true&locale=en&layout=compact" alt="viniciusmgaspar"/></p>
 <br><br><br><br><br><br><br>
 
 ## 🌐 Connect with me:
